@@ -84,7 +84,7 @@ Unrealistic input values
     
 Why This Scales Well?
 
-    Still O(1) complexity → No loops, just direct calculations.
+    Still O(1) complexity > No loops, just direct calculations.
 
     Handles extreme values and invalid input gracefully.
     
