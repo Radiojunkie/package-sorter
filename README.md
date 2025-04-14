@@ -41,5 +41,3 @@ This script **waits for user input**, processes it, and classifies the package.
 To execute the script, open a terminal and run:
 ```bash
 python package_sorter.py
-
-Or Open in IDE and run it there.
